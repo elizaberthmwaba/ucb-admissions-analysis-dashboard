@@ -10,7 +10,7 @@ The short answer is no, but the data makes a compelling case that it did, until 
 
 In 1973, UC Berkeley was sued for gender bias in graduate admissions. On the surface, the numbers were damning, male applicants were admitted at a rate of **44%** while female applicants were admitted at just **30%**. That is a 14 percentage point gap across 4,839 applications. If you stopped there, you would conclude the university systematically favored men.
 
-But a deeper analysis published in *Science* in 1975 by Bickel, Hammel and O'Connell showed something unexpected. When researchers broke the data down by individual major, the gender gap not only shrank,in several majors, women were actually admitted at *higher* rates than men. The aggregate statistic was not lying, but it was telling the wrong story. This is one of the most cited real-world examples of **Simpson's Paradox** a trend that appears in aggregate data reverses or disappears when the data is broken into subgroups.
+But a deeper analysis published in *Science* in 1975 by Bickel, Hammel and O'Connell showed something unexpected. When researchers broke the data down by individual major, the gender gap not only shrank, in several majors, women were actually admitted at *higher* rates than men. The aggregate statistic was not lying, but it was telling the wrong story. This is one of the most cited real-world examples of **Simpson's Paradox** a trend that appears in aggregate data reverses or disappears when the data is broken into subgroups.
 
 This dashboard makes that phenomenon visible and interactive.
 
@@ -80,7 +80,7 @@ The admissions data cannot answer those questions. But it does show that the bia
 1. Download **Power BI Desktop** for free at [powerbi.microsoft.com](https://powerbi.microsoft.com/desktop)
 2. Clone or download this repository
 3. Open `admissions-dashboard.pbix` in Power BI Desktop
-4. All data is embedded — no external connection required
+4. All data is embedded, no external connection required
 
 ---
 
